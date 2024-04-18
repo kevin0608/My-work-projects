@@ -7,12 +7,12 @@ Computes totals
 Produces a total information breakdown reports
 Integrated in Tkinter for user friendly GUI
 
-###Purpose
+••Purpose••
 Automate computing
 Reduce Human Errors
 Save time
 
-###Use Case
+••Use Case••
 Planning
 Individual event calculation
 Weekly events calculation
