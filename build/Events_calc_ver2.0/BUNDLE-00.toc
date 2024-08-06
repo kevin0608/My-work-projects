@@ -1,0 +1,3 @@
+([('Events_calc_ver2.0',
+   '/Users/Kevin/my python projects/dist/Events_calc_ver2.0',
+   'EXECUTABLE')],)
