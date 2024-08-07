@@ -1,3 +1,0 @@
-([('cocktail_recipe_converter',
-   '/Users/Kevin/My python projects/dist/cocktail_recipe_converter',
-   'EXECUTABLE')],)
