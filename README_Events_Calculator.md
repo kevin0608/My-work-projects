@@ -1,7 +1,7 @@
 # Events Multi-purpose Calculator
 
 **Functions:**
-Computes staff needed for an event depending on event type and it's conditioning, ratios and variables |
+Computes staff needed for an event depending on event type, ratios and variables |
 Computes staff cost |
 Computes totals |
 Produces a total information breakdown reports |
